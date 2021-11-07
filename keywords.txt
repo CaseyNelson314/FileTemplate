@@ -6,15 +6,16 @@
 # Datatypes	(KEYWORD1)
 ###########################################
 
-オブジェクト	KEYWORD1	濃い赤色
+fyle	KEYWORD1	濃い赤色
 
 ###########################################
 # Methods and Functions	(KEYWORD2)
 ###########################################
 
-関数	KEYWORD2	赤色
+Function	KEYWORD2	赤色
 
 #######################################
 # Constants (LITERAL1)
 #######################################
-定数	LITERAL1	青色
+
+Constant	LITERAL1	青色
